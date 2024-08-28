@@ -2,7 +2,7 @@ package com.monterio.hackerrank.introduction;
 
 import java.util.Scanner;
 
-public class JavaStdinAndStdoutSolution {
+public class JavaStdinAndStdoutI {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
