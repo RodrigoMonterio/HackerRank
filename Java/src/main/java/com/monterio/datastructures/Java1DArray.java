@@ -3,6 +3,7 @@ package com.monterio.datastructures;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//https://www.hackerrank.com/challenges/java-1d-array-introduction/problem
 public class Java1DArray {
 
     public static void main(String[] args) {
