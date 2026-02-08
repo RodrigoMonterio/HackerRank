@@ -3,3 +3,11 @@
 //
 
 #include "helloworld.h"
+#include <iostream>
+#include <cstdio>
+using namespace helloworld;
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
